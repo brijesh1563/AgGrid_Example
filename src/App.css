@@ -2,6 +2,14 @@
   text-align: center;
 }
 
+.setting{
+  display: flex;
+}
+
+/* .settings{
+  float: right;
+} */
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
